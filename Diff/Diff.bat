@@ -1,0 +1,1 @@
+Urho3DPlayer.exe main.lua -w -s

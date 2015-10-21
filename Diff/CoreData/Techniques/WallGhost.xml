@@ -1,0 +1,3 @@
+<technique vs="WallGhost" ps="WallGhost">
+    <pass name="postopaque" depthwrite="false" depthtest="greater" blend="add"/>
+</technique>

@@ -1,0 +1,6 @@
+<material>
+	<technique name="Techniques/Diff.xml" loddistance="30" />
+	<technique name="Techniques/DiffNormal.xml" loddistance="0" />
+	<texture unit="diffuse" name="Textures/cubeblock_ao.png" />
+	<texture unit="normal" name="Textures/cubeblock_normal.png" />
+</material>

@@ -1,0 +1,6 @@
+<material>
+    <technique name="Techniques/DiffAlphaMask.xml"/>
+	<texture unit="diffuse" name="Textures/leafclump.png" />
+	<cull value="none" />
+	<shadowcull value="none" />
+</material>

@@ -1,0 +1,5 @@
+<material>
+    <technique name="Techniques/WallGhost.xml"/>
+    <parameter name="MatDiffColor" value="1.5 0.25 0.25 1" />
+	<depthbias constant="-0.0016" />
+</material>

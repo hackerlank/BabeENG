@@ -1,0 +1,1 @@
+Urho3DPlayer_NoSSE.exe main_nosse.lua -w -s
